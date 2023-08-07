@@ -1,4 +1,5 @@
 ## Full-Project-in-Excel-with-Interactive-Dashboard
+![Salman store project output results ](https://github.com/imran731221/Full-Project-in-Excel-with-Interactive-Dashboard-/assets/136830540/9bd5937b-ee75-4a0c-8304-1582d779518e)
 
 ## Objective 
 Salman  store wants to create an annual sales report for,2022. So that, Salman  store can understand their customers and grow more sales in 2023.
